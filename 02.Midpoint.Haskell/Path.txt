@@ -1,0 +1,3 @@
+"D:/Uni/Summer School/Open Paper/01.NBody2D/Haskell/EulerCompare/Main.hs"
+
+"D:/Uni/Summer School/Open Paper/01.NBody2D/Haskell/Bodies.hs"
